@@ -3,7 +3,7 @@
 Liste des projets actifs : 
 - VitrineNumerique : Projet développé pour le prototype mis à disposition dans le cadre de la vitrine numérique 
 - carte_combinatoire : Projet contenant le code pour créer des cartes combinatoires
-- Step3_Visualisation : 
+- Step3_Visualisation : Contient la capture de la maquette de la parcelle et la visualisaiton en réalité augmentée
 - YoloTraining : Projet développé par Gabriel M. entrainé Yolov8 à partir d'un jeu d'images
 
 Liste des projets historique : 
