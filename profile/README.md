@@ -5,11 +5,11 @@ Liste des projets actifs :
 - carte_combinatoire : Projet contenant le code pour créer des cartes combinatoires
 - Step3_Visualisation : Contient la capture de la maquette de la parcelle et la visualisaiton en réalité augmentée
 - YoloTraining : Projet développé par Gabriel M. entrainé Yolov8 à partir d'un jeu d'images
-
+- RAoutdoor : Projet pour la réalité augmentée projeté dans les parcelles en extérieur
+  
 Liste des projets historique : 
 - VitrineNumeriqueBase : Projet initial de la vitrine numérique mais Gabriel y est admin
-- Demos_Visualisation : 
-- RAoutdoor
+- Demos_Visualisation :
 - Indoor_RA_Visu
 - RAindoor 
 - Step3_Visualisation_broken 
